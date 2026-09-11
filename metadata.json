@@ -1,0 +1,6 @@
+{
+  "name": "Flutter สำหรับมือใหม่",
+  "description": "คู่มือและเครื่องมือเรียนรู้ Flutter ภาษาไทยสำหรับผู้เริ่มต้น พร้อม Interactive Widget Playground, โค้ดตัวอย่าง และแบบทดสอบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
